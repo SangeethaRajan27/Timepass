@@ -1,0 +1,59 @@
+Rock:
+
+"Bohemian Rhapsody" by Queen
+"Stairway to Heaven" by Led Zeppelin
+"Hotel California" by Eagles
+
+Pop:
+
+"Shape of You" by Ed Sheeran
+"Billie Jean" by Michael Jackson
+"Blinding Lights" by The Weeknd
+
+Hip-Hop/Rap:
+
+"Sicko Mode" by Travis Scott
+"Lose Yourself" by Eminem
+"Old Town Road" by Lil Nas X
+
+Country:
+
+"Take Me Home, Country Roads" by John Denver
+"Wagon Wheel" by Darius Rucker
+"The Dance" by Garth Brooks
+
+Electronic/Dance:
+
+"Wake Me Up" by Avicii
+"Clarity" by Zedd
+"Titanium" by David Guetta ft. Sia
+
+Classical:
+
+"Symphony No. 9" by Ludwig van Beethoven
+"Eine kleine Nachtmusik" by Wolfgang Amadeus Mozart
+"The Four Seasons" by Antonio Vivaldi
+
+Jazz:
+
+"Take Five" by Dave Brubeck
+"Summertime" by Ella Fitzgerald and Louis Armstrong
+"My Favorite Things" by John Coltrane
+
+R&B/Soul:
+
+"What's Going On" by Marvin Gaye
+"I Will Always Love You" by Whitney Houston
+"Superstition" by Stevie Wonder
+
+Reggae:
+
+"No Woman, No Cry" by Bob Marley & The Wailers
+"Three Little Birds" by Bob Marley & The Wailers
+"One Love" by Bob Marley & The Wailers
+
+Indie/Alternative:
+
+"Radioactive" by Imagine Dragons
+"Some Nights" by fun.
+"Ho Hey" by The Lumineers
